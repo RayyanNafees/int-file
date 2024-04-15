@@ -1,4 +1,5 @@
 import sys
+import math
 sys.set_int_max_str_digits(10000)
 # import basify
 BYTE_CONST = 2.408116385911179
